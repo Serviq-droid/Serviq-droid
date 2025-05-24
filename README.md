@@ -10,7 +10,7 @@ Improving my skills in JavaScript, Java, HTML, CSS, and database management to b
 Junior developer projects, web development, backend systems, and database design.
 
 ## 📫 How to Reach Me
-- Email: serviq.droid@example.com  
+- Email: andrecortez889@gmail.com  
 - LinkedIn: [linkedin.com/in/serviq-droid](https://linkedin.com/in/serviq-droid)
 
 ## 😄 Pronouns
